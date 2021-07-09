@@ -5,6 +5,9 @@
 #Experience {
 	background-color: #C39BD3; 
 }
+section{
+	padding-top: 5rem
+}
 h1{
 	font-family: courier;
 	font-size:30px;
